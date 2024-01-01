@@ -2,7 +2,7 @@
 
 This is a simple HTML project for the CatPhotoApp, showcasing cat photos, lists of things cats love and hate, and a cat form. The project is developed using HTML and includes basic styling.
 
-### Project Preview: https://shorturl.at/bciwK
+### Project Preview: https://bit.ly/CatPhotoApp
 
 ## Project Structure
 
