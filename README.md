@@ -1,4 +1,4 @@
-# CatPhotoApp Project
+# CatPhotoApp Project: [PREVIEW](https://akshayparihar07.github.io/CatPhotoApp/)
 
 This is a simple HTML project for the CatPhotoApp, showcasing cat photos, lists of things cats love and hate, and a cat form. The project is developed using HTML and includes basic styling.
 
